@@ -1,0 +1,23 @@
+README.md
+  s_294dab851cf5f2::t_2aaa94083e89da 1-8
+index.html
+  s_294dab851cf5f2::t_3ff739b0d2807b 1-50
+privacidad.html
+  s_294dab851cf5f2::t_bc5950c4bd9b21 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "df9267d21ce73a46d6674c2e14562eb24a6aa3af",
+  "prompts": {},
+  "sessions": {
+    "s_294dab851cf5f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "59a9166b-a2d1-4803-9b37-d2708a3e8534",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Fran Linde Blázquez <fran.linde.blazquez@gmail.com>"
+    }
+  }
+}

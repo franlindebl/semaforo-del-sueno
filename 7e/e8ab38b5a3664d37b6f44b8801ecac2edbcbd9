@@ -1,0 +1,16 @@
+index.html
+  h_50d6d3b98a70dd 17-18,23,34-35,40
+privacidad.html
+  h_50d6d3b98a70dd 17-18,23,34-35,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ee8ab38b5a3664d37b6f44b8801ecac2edbcbd9",
+  "prompts": {},
+  "humans": {
+    "h_50d6d3b98a70dd": {
+      "author": "Fran Linde Blázquez <fran.linde.blazquez@gmail.com>"
+    }
+  }
+}
